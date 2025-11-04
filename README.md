@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there! I'm megonil
 
-<!--
-**megonilus/megonilus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+I'm currently immersed in the exciting world of project development, constantly learning and building.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## My Skills
+
+Here are some of the technologies I'm proficient in:
+
+*   React
+*   Typescript
+*   Javascript
+*   C++
+*   A little C
+
+---
+
+## GitHub Stats
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=megonilus&layout=compact&theme=vision-friendly-dark)
+
+![megonil's GitHub stats](https://github-readme-stats.vercel.app/api?username=megonilus&show_icons=true&theme=vision-friendly-dark)
