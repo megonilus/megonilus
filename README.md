@@ -1,9 +1,5 @@
 # Hello there! I'm megonil
 
-## About Me
-
-A passionate individual currently immersed in a variety of exciting projects. Exploring new horizons and building innovative solutions is what drives me.
-
 ## Tech Stack
 
 Here are some of the technologies I've tried and/or use:
